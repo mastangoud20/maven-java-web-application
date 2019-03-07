@@ -5,6 +5,7 @@
 	<artifactId>sampleWebApp</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+	
 
 	<name>Number Generator WebApp</name>
 	<url>http://denofprogramming.com</url>
